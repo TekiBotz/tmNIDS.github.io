@@ -22,6 +22,7 @@ Components:
 
 ## Logical Network Diagram
 ***
+![tmNIDS drawio](https://github.com/user-attachments/assets/5edb8feb-ae08-413f-ab10-0d555767a371)
 
 ## Software
 ***
