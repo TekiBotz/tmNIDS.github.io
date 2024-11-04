@@ -40,11 +40,11 @@ Components:
 
     * Malicious User-Agent (Test 3):
         * Simulates a request with a suspicious User-Agent header.
-        * Wazuh dashboard should display an alert (e.g., ET POLICY GNU/LINUX APT User-Agent Outbound) indicating potential package management-related threats.
+        * Wazuh dashboard should display an alert indicating potential package management-related threats.
     * Tor Connection (Test 5):
         * Simulates a connection to a Tor hidden service (.onion).
-        * Wazuh dashboard should display alerts related to Tor traffic (e.g., ET POLICY DNS Query for TOR Hidden Domain).
-    * All Tests (Test 11):
+        * Wazuh dashboard should display alerts related to Tor traffic.
+    * All Tests (Test 16):
         * Executes all available tmNIDS tests simultaneously.
         * Wazuh dashboard should display alerts for each successful attack simulation.
 
