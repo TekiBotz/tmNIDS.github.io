@@ -35,9 +35,8 @@ Components:
 1. Install tmNIDS:
     * Download the source code using curl:   curl -sSL https://raw.githubusercontent.com/3CORESec/testmynids.org/master/tmNIDS -o /tmp/tmNIDS && chmod +x /tmp/tmNIDS && /tmp/tmNIDS
    * This downloads and executes tmNIDS, providing a list of testing options.
-2. Test Scenarios:
 ![tmNIDSOptions](https://github.com/user-attachments/assets/6850f548-569e-41fc-9987-d12089d60797)
-
+2. Test Scenarios:
     * Malicious User-Agent (Test 3):
         * Simulates a request with a suspicious User-Agent header.
         * Wazuh dashboard should display an alert indicating potential package management-related threats.
