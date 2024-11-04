@@ -1,7 +1,7 @@
 - [Learning Objectives](#learning-objectivies)
 - [Lab Setup](#lab-setup)
 - [Logical Network Diagram](#logical-network-diagram)
-- [Software/Tools](#software-tools)
+- [Software/Tools](#software-/-tools)
 - [Tests](#tests)
 - [Output](#output)
 - [Conclusion](#conclusion)
