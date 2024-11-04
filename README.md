@@ -1,7 +1,7 @@
 - [Learning Objectives](#learning-objectivies)
 - [Lab Setup](#lab-setup)
 - [Logical Network Diagram](#logical-network-diagram)
-- [Software](#software)
+- [Software/Tools](#software-tools)
 - [Tests](#tests)
 - [Output](#output)
 - [Conclusion](#conclusion)
@@ -24,7 +24,7 @@ Components:
 ***
 ![tmNIDS drawio](https://github.com/user-attachments/assets/5edb8feb-ae08-413f-ab10-0d555767a371)
 
-## Software
+## Software/Tools
 ***
 * Wazuh
 * Suricata
