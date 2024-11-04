@@ -33,8 +33,8 @@ Components:
 ## Tests
 ***
 1. Install tmNIDS:
-    * Download the source code using curl: curl -sSL https://raw.githubusercontent.com/3CORESec/testmynids.org/master/tmNIDS > -o /tmp/tmNIDS && chmod +x /tmp/tmNIDS && /tmp/tmNIDS   
-    * This downloads and executes tmNIDS, providing a list of testing options.
+    * Download the source code using curl:   curl -sSL https://raw.githubusercontent.com/3CORESec/testmynids.org/master/tmNIDS -o /tmp/tmNIDS && chmod +x /tmp/tmNIDS && /tmp/tmNIDS
+   * This downloads and executes tmNIDS, providing a list of testing options.
 2. Test Scenarios:
     * Malicious User-Agent (Test 3):
         * Simulates a request with a suspicious User-Agent header.
